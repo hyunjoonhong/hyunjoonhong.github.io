@@ -1,0 +1,24 @@
+body {
+	text-align: center;
+}
+.col1 {
+	background: red;
+}
+.col2 {
+	background: orange;
+}
+.col3 {
+	background: yellow;
+}
+.col4 {
+	background: green;
+}
+.col5 {
+	background: blue;
+}
+.col6{
+	background: navy;
+}
+.col7{
+	background: purple;
+}

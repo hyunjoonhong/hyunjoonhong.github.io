@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+body {
+	font-family: "Indie Flower", Times, serif;
+}
+h1 {
+	font-style: italic;
+	color: aquamarine;
+	background: navy;
+}
+.col1 {
+	background: red;
+}
+.col2 {
+	background: orange;
+}
+.col3 {
+	background: yellow;
+}
+.col4 {
+	background: green;
+}
+.col5 {
+	background: blue;
+}
